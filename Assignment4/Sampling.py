@@ -1,7 +1,7 @@
 """
 Created on Sun Mar 27 20:02:36 2022
 
-@author: arazi, danny saad
+@author: arazi, Ethan Tompkins
 """
 
 import numpy as np
