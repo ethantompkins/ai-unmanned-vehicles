@@ -1,5 +1,5 @@
 '''
-Danny Saad
+Ethan Tompkins 
 Assignment 2
 CPSC 4820
 '''
